@@ -1,12 +1,11 @@
+## Loan Status Prediction Model
 
-Loan Status Prediction Model
-
-Project Objective
+### Project Objective
 The objective of this project is to build a predictive model that can accurately predict the loan status (Approved or Rejected) based on various features. The features include the number of dependents, education level, self-employment status, annual income, loan amount, loan term, CIBIL score, residential assets value, commercial assets value, luxury assets value, and bank asset value.
 
 By accomplishing this task, the project aims to develop a robust and accurate loan status prediction model that can assist in making informed lending decisions.
 
-Data
+### Data
 The dataset used for this project is tabulated and contains the following columns:
 
 loan_id: Unique identifier for each loan application.
@@ -36,7 +35,7 @@ bank_asset_value: Value of the assets held in the bank by the loan applicant.
 loan_status: The target variable to be predicted (Approved/Rejected).
 
 
-Project Steps
+### Project Steps
 
 Data Exploration and Preprocessing: Explore the dataset to gain insights into the distribution of features and check for any missing values. Preprocess the data by handling missing values, encoding categorical variables, and scaling numerical features if necessary.
 
